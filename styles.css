@@ -1,0 +1,15 @@
+.jumbotron{
+ background-image: url(https://www.meetingedinburgh.com/dyn/scld/1508188903864.png);
+ background-size: 100%;
+ background-repeat: no-repeat;
+}
+
+.carousel-item {
+    height: 100vh;
+    max-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
