@@ -64,6 +64,10 @@ section {
     padding-bottom: 50px;
   }
 
+  h6 {
+    text-align: center;
+  }
+
   .display-6 {
     padding-bottom: 2rem;
   }
