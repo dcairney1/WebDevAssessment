@@ -11,7 +11,7 @@ Responsiveness through the use of bootstrap was also extremely important as resp
 
 The main problem I had was with the header image/banner that is shown on all of the webpages, I couldn’t get it to display quite how I wanted it to, but after some trial and error and the help of online documentation I was able to make it display as intended. Besides this I encountered no major difficulties, and it was mostly a matter of taking the time to think through stylistic choices when designing the website. 
 
-Validator errors were another issue, I located validator errors using the W3C Markup validator service. I fixed each validator error with some trial and error. However, I will note that validator errors still exist with all buttons located on the visit.html webpage and while I could fix these errors after Googling around and investigating the issue my current solution seems to be generally accepted practice, despite the validator spitting out errors (see below for some discussion on the issue). Everything else validates perfectly.
+Validator errors were another problem I encountered, I located validator errors using the W3C Markup validator service online. I fixed each validator error with some trial and error using the information provided. However, I will note that validator errors still exist with each (all) buttons located on the visit.html webpage and while I could fix these errors with some clever CSS, after Googling around and investigating the issue my current solution seems to be generally accepted practice, despite the validator spitting out errors (see below for one such discussion on the issue). Besides that, everything else validates perfectly fine.
 
 https://stackoverflow.com/questions/3341011/making-a-button-thats-a-link-in-html
 
